@@ -6,4 +6,4 @@
 [[redirects]]
     from = "code"
     to = "https://142.93.238.224"
-    status = 200
+    status = 301
