@@ -1,6 +1,10 @@
 <template>
   <div>
     <div class="logo">
+      <a href="https://github.com/oleeskild" target="_blank">
+        <img src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png" height="30" 
+        style="margin-right: 20px;">
+    </a>
         <img src="https://nb.gravatar.com/avatar/1dfe1530479b8cc71d2420fd12150220" />
     </div>
     <div class="background">
@@ -81,6 +85,8 @@ body {
     right: 0;
     margin-right: 20px;
     margin-top: 20px;
+    display: flex;
+    align-items: center;
 }
 
 .logo >img{
