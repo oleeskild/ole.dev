@@ -2,8 +2,7 @@
     from = "vekt"
     to = "https://modest-edison-d39fe9.netlify.com"
     status = 301
-
 [[redirects]]
-    from = "code"
-    to = "https://142.93.238.224"
+    from = "middag"
+    to = "https://goofy-bhaskara-518a26.netlify.app"
     status = 301
