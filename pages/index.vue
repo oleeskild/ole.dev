@@ -11,7 +11,6 @@
       <jumbotron>
         <div class="info">
           <h1 class="info__header">Ole Eskild Steensen</h1>
-          <h3 class="info__subheader">tlf: 92618997</h3>
           <h3 class="info__subheader">epost: post@ole.dev</h3>
         </div>
       </jumbotron>
