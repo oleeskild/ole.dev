@@ -1,7 +1,7 @@
 [[redirects]]
-    from = "vekt"
-    to = "https://modest-edison-d39fe9.netlify.com"
-    status = 301
+    from = "jam"
+    to = "https://jam-docs-ole-dev.netlify.app"
+    status = 200
 [[redirects]]
     from = "middag"
     to = "https://goofy-bhaskara-518a26.netlify.app"
