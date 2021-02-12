@@ -1,42 +1,44 @@
 <template>
-<div>
+  <div>
     <h2>Prosjekter</h2>
     <div class="project-list">
-        <project-card
-            :title="'Jam'"
-            :url="'https://ole.dev/jam'"
-            :icon="'&#x1F36F;'">
-            </project-card>
-        <project-card
+      <project-card
+        :title="'Jam'"
+        :url="'https://ole.dev/jam'"
+        :icon="'&#x1F36F;'"
+      >
+      </project-card>
+      <project-card
         :title="'Middag'"
         :url="'https://ole.dev/middag'"
-        :icon="'&#x1F354;'">
-        </project-card>
+        :icon="'&#x1F354;'"
+      >
+      </project-card>
     </div>
-</div>
+  </div>
 </template>
 <script>
-import ProjectCard from './ProjectCard.vue'
+import ProjectCard from "./ProjectCard.vue";
 export default {
-    components:{
-        ProjectCard
-    }
-}
+  components: {
+    ProjectCard,
+  },
+};
 </script>
 <style scoped>
-.project-list{
-    display: grid;
-    grid-template-columns: auto auto;
-    grid-template-rows: auto;
-    column-gap: 10px;
-    margin-bottom: 20px;
+.project-list {
+  display: grid;
+  grid-template-columns: auto auto;
+  grid-template-rows: auto;
+  column-gap: 10px;
+  margin-bottom: 20px;
 }
-h2{
-    text-align: center;
+h2 {
+  text-align: center;
 }
 @media (max-width: 1024px) {
-.project-list{
+  .project-list {
     grid-template-columns: auto;
-}
+  }
 }
 </style>
