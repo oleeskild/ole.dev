@@ -82,23 +82,17 @@ body {
   font-size: 32px;
 }
 
-.row {
+.center-content {
   display: flex;
   flex-direction: row;
+  align-items: center;
+  height: 100%;
 }
 @media (max-width: 700px) {
-  .row{
+  .center-content{
     flex-direction: column-reverse;
   }
   
-}
-
-.row--align-center {
-  align-items: center;
-}
-
-.row--full-height {
-  height: 100%;
 }
 
 .logo {
@@ -108,6 +102,7 @@ body {
     margin-top: 20px;
     display: flex;
     align-items: center;
+    z-index: 1;
 }
 
 .logo >img{

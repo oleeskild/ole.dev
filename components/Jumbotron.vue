@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <div class="row row--justify-start row--align-center row--full-height">
+    <div class="center-content">
       <div class="image">
         <img id="workstation" src="~assets/Workstation.svg" />
       </div>
@@ -54,8 +54,8 @@ export default {
   margin: 0;
 }
 .image {
-  width: 50%;
   margin-top: 80px;
+  margin-bottom: 50px;
   animation-name: hovering;
   animation-duration: 6s;
   animation-iteration-count: infinite;
