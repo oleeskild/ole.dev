@@ -5,11 +5,12 @@
         <img src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png" height="30" 
         style="margin-right: 20px;">
     </a>
-        <img src="https://nb.gravatar.com/avatar/1dfe1530479b8cc71d2420fd12150220" />
+        <!-- <img src="https://nb.gravatar.com/avatar/1dfe1530479b8cc71d2420fd12150220" /> -->
     </div>
     <div class="background">
       <jumbotron>
         <div class="info">
+          <h2 class="info__subheader">Utvikler</h2>
           <h1 class="info__header">Ole Eskild Steensen</h1>
           <h3 class="info__subheader">epost: post@ole.dev</h3>
         </div>
