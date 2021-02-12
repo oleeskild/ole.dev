@@ -34,7 +34,7 @@ export default {
 h2{
     text-align: center;
 }
-@media (max-width: 700px) {
+@media (max-width: 1024px) {
 .project-list{
     grid-template-columns: auto;
 }
