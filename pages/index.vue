@@ -88,7 +88,7 @@ body {
   align-items: center;
   height: 100%;
 }
-@media (max-width: 700px) {
+@media (max-width: 1024px) {
   .center-content{
     flex-direction: column-reverse;
   }
