@@ -8,6 +8,7 @@
         <slot></slot>
       </div>
     </div>
+    <div class="bottom">&#x1F447;</div>
   </div>
 </template>
 <script>
@@ -37,6 +38,15 @@ export default {
   min-height: 100vh;
   color: white;
   background-color: #4fa3e1;
+  position: relative;
+}
+.bottom {
+    z-index: 1;
+    position: absolute;
+    bottom:0;
+    transform: translate(-50%, -25%);
+    left: 50%;
+    font-size: 42px;
 }
 
 .header {
@@ -58,6 +68,6 @@ export default {
 }
 
 #workstation {
-  margin-left: -100px;
+  min-width: 400px;
 }
 </style>

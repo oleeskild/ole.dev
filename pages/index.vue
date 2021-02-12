@@ -60,6 +60,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  padding: 10px;
 }
 .info__header {
   margin: 0;
@@ -84,6 +85,12 @@ body {
 .row {
   display: flex;
   flex-direction: row;
+}
+@media (max-width: 700px) {
+  .row{
+    flex-direction: column-reverse;
+  }
+  
 }
 
 .row--align-center {
