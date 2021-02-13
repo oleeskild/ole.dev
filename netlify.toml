@@ -14,9 +14,9 @@
 
 [[redirects]]
     from = "dash"
-    to = "https://https://dailydash.netlify.app"
+    to = "https://dailydash.netlify.app"
     status = 200
 [[redirects]]
     from = "assets/*"
-    to = "https://https://dailydash.netlify.app/assets/:splat"
+    to = "https://dailydash.netlify.app/assets/:splat"
     status = 200
