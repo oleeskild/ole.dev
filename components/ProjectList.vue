@@ -17,7 +17,7 @@
       <project-card
         :title="'Dailydash'"
         :url="'https://ole.dev/dash'"
-        :icon="'&#x1F4C8;'"
+        :icon="'&#x1F39B;'"
       >
       </project-card>
     </div>
