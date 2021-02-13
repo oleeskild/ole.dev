@@ -14,6 +14,12 @@
         :icon="'&#x1F354;'"
       >
       </project-card>
+      <project-card
+        :title="'Dailydash'"
+        :url="'https://ole.dev/dash'"
+        :icon="'&#x1F4C8;'"
+      >
+      </project-card>
     </div>
   </div>
 </template>
