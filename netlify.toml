@@ -11,3 +11,12 @@
     from = "middag"
     to = "https://goofy-bhaskara-518a26.netlify.app"
     status = 301
+
+[[redirects]]
+    from = "dash"
+    to = "https://https://dailydash.netlify.app"
+    status = 200
+[[redirects]]
+    from = "assets/*"
+    to = "https://https://dailydash.netlify.app/assets/:splat"
+    status = 200
