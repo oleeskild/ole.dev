@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2>Prosjekter</h2>
+    <h2>Greier</h2>
     <div class="project-list">
       <project-card
         :title="'Jam'"
