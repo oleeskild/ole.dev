@@ -3,7 +3,7 @@
     <h2>Greier</h2>
     <div class="project-list">
       <project-card
-        :title="'Jam'"
+        :title="'Jam Docs'"
         :url="'https://ole.dev/jam'"
         :icon="'&#x1F36F;'"
       >
