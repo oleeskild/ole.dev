@@ -20,3 +20,8 @@
     from = "assets/*"
     to = "https://dailydash.netlify.app/assets/:splat"
     status = 200
+
+[[redirects]]
+    from = "riddlr"
+    to = "https://riddlr.netlify.app/"
+    status = 301
