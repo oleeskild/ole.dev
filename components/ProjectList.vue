@@ -19,6 +19,7 @@
         :url="'https://ole.dev/riddlr'"
         :icon="'&#x1F3A9;'"
       >
+      </project-card>
       <project-card
         :title="'Daily Dash'"
         :url="'https://ole.dev/dash'"
