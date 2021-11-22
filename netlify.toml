@@ -22,6 +22,11 @@
     status = 200
 
 [[redirects]]
+    from = "notes/*"
+    to = "https://ole-dev-notes.netlify.app/notes/:splat"
+    status = 200
+
+[[redirects]]
     from = "riddlr"
     to = "https://riddlr.netlify.app/"
     status = 301
