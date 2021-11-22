@@ -27,6 +27,11 @@
     status = 200
 
 [[redirects]]
+    from = "styles/style.css"
+    to = "https://ole-dev-notes.netlify.app/styles/style.css"
+    status = 200
+
+[[redirects]]
     from = "riddlr"
     to = "https://riddlr.netlify.app/"
     status = 301
