@@ -10,7 +10,7 @@
       </project-card>
        <project-card
         :title="'NFT Gallery'"
-        :url="'https://ole.dev/nfts'"
+        :url="'https://ole.dev/nft'"
         :icon="'&#x1F5BC;'"
       >
       </project-card>
