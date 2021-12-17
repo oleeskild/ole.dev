@@ -35,3 +35,8 @@
     from = "riddlr"
     to = "https://riddlr.netlify.app/"
     status = 301
+    
+[[redirects]]
+    from = "nfts/*"
+    to = "https://ole-dev-nft.netlify.app/:splat"
+    status = 200
