@@ -40,3 +40,9 @@
     from = "nfts/*"
     to = "https://ole-dev-nft.netlify.app/:splat"
     status = 200
+    
+[[redirects]]
+    from = "nftcss/*"
+    to = "https://ole-dev-nft.netlify.app/nftcss/:splat"
+    status = 200
+    
