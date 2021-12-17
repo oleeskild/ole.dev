@@ -8,6 +8,12 @@
         :icon="'&#x1F36F;'"
       >
       </project-card>
+       <project-card
+        :title="'NFT Gallery'"
+        :url="'https://ole.dev/nft'"
+        :icon="'&#x1F5BC;'"
+      >
+      </project-card>
       <project-card
         :title="'Middag'"
         :url="'https://ole.dev/middag'"
