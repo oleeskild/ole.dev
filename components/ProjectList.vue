@@ -7,6 +7,7 @@
         :url="' https://ole.dev/notes/Offentlige%20Notater'"
         :icon="'&#x1F5D2;'"
       >
+      </project-card>
       <project-card
         :title="'Jam Docs'"
         :url="'https://ole.dev/jam'"
