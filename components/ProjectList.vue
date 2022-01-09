@@ -5,7 +5,7 @@
     <project-card
         :title="'Notater'"
         :url="' https://ole.dev/notes/Offentlige%20Notater'"
-        :icon="'&#x1F5D2;'"
+        :icon="'&#x1F4DD;'"
       >
       </project-card>
       <project-card
