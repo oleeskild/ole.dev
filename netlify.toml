@@ -38,8 +38,8 @@
     
 [[redirects]]
     from = "garden"
-    to = "https://ole.dev/notes/Set%20up%20your%20own%20digital%20garden"
-    status = 200
+    to = "/notes/Set%20up%20your%20own%20digital%20garden"
+    status = 302
 
 [[redirects]]
     from = "riddlr"
