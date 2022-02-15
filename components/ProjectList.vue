@@ -3,9 +3,9 @@
     <h2>Greier</h2>
     <div class="project-list">
     <project-card
-        :title="'Notater'"
-        :url="' https://ole.dev/notes/Offentlige%20Notater'"
-        :icon="'&#x1F4DD;'"
+        :title="'Digital Hage'"
+        :url="' https://ole.dev/notes/'"
+        :icon="'&#x1F331;'"
       >
       </project-card>
       <project-card
