@@ -22,6 +22,11 @@
     status = 200
 
 [[redirects]]
+    from = "notes/"
+    to = "https://notathage.netlify.app/"
+    status = 200
+
+[[redirects]]
     from = "notes/*"
     to = "https://notathage.netlify.app/notes/:splat"
     status = 200
