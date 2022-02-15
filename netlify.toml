@@ -35,6 +35,11 @@
     from = "styles/style.css"
     to = "https://notathage.netlify.app/styles/style.css"
     status = 200
+    
+[[redirects]]
+    from = "garden"
+    to = "https://ole.dev/notes/Set%20up%20your%20own%20digital%20garden"
+    status = 200
 
 [[redirects]]
     from = "riddlr"
