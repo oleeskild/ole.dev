@@ -23,12 +23,12 @@
 
 [[redirects]]
     from = "notes/*"
-    to = "https://ole-dev-notes.netlify.app/notes/:splat"
+    to = "https://notathage.netlify.app/notes/:splat"
     status = 200
 
 [[redirects]]
     from = "styles/style.css"
-    to = "https://ole-dev-notes.netlify.app/styles/style.css"
+    to = "https://notathage.netlify.app/styles/style.css"
     status = 200
 
 [[redirects]]
