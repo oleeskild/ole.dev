@@ -28,8 +28,8 @@
 
 [[redirects]]
     from = "notes/*"
-    to = "https://notathage.netlify.app/notes/:splat"
-    status = 200
+    to = "https://notes.ole.dev/:splat"
+    status = 302
 
 [[redirects]]
     from = "styles/style.css"
@@ -38,7 +38,7 @@
     
 [[redirects]]
     from = "garden"
-    to = "/notes/set-up-your-own-digital-garden"
+    to = "https://notes.ole.dev/set-up-your-digital-garden"
     status = 302
 
 [[redirects]]
