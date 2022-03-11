@@ -4,7 +4,7 @@
     <div class="project-list">
     <project-card
         :title="'Digital Hage'"
-        :url="' https://ole.dev/notes/'"
+        :url="' https://notes.ole.dev/'"
         :icon="'&#x1F331;'"
       >
       </project-card>
