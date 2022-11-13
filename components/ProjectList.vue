@@ -3,6 +3,12 @@
     <h2>Greier</h2>
     <div class="project-list">
     <project-card
+        :title="'Obsidian Digital Garden Plugin'"
+        :url="' https://dg-docs.ole.dev/'"
+        :icon="'&#x1F3E1;'"
+      >
+      </project-card>
+    <project-card
         :title="'Digital Hage'"
         :url="' https://notes.ole.dev/'"
         :icon="'&#x1F331;'"
