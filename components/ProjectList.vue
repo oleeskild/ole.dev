@@ -20,6 +20,12 @@
         :icon="'&#x1F36F;'"
       >
       </project-card>
+      <project-card
+        :title="'Foos Invitation'"
+        :url="'https://foosinvite.netlify.app/'"
+        :icon="'&#x26bd;;'"
+      >
+      </project-card>
        <project-card
         :title="'NFT Gallery'"
         :url="'https://ole.dev/nft'"
