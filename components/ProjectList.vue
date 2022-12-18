@@ -23,7 +23,7 @@
       <project-card
         :title="'Foos Invitation'"
         :url="'https://foosinvite.netlify.app/'"
-        :icon="'&#x26bd;;'"
+        :icon="'&#x26bd;'"
       >
       </project-card>
        <project-card
