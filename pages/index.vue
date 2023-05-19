@@ -10,9 +10,9 @@
     <div class="background">
       <jumbotron>
         <div class="info">
-          <h2 class="info__intro">Utvikler</h2>
+          <h2 class="info__intro">Software Developer</h2>
           <h1 class="info__header">Ole Eskild Steensen</h1>
-          <h3 class="info__subheader">epost: post@ole.dev</h3>
+          <h3 class="info__subheader">email: post@ole.dev</h3>
         </div>
       </jumbotron>
     </div>

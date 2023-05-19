@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2>Greier</h2>
+    <h2>Stuff I've made</h2>
     <div class="project-list">
     <project-card
         :title="'Obsidian Digital Garden Plugin'"
