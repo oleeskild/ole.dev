@@ -70,7 +70,7 @@ export default {
 <style scoped>
 .project-list {
   display: grid;
-  grid-template-columns: auto auto;
+  grid-template-columns: 50% 50%;
   grid-template-rows: auto;
   column-gap: 10px;
   margin-bottom: 20px;
