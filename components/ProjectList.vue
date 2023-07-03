@@ -10,7 +10,7 @@
       </project-card>
       <project-card
         :title="'Talks'"
-        :url="' https://notes.ole.dev/foredrag'"
+        :url="' https://notes.ole.dev/foredrag/'"
         :icon="'&#x1F5E3;'"
       >
       </project-card>
