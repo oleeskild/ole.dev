@@ -3,8 +3,14 @@
     <h2>Stuff I've made</h2>
     <div class="project-list">
     <project-card
-        :title="'Obsidian Digital Garden Plugin'"
+        :title="'Obsidian Digital Garden'"
         :url="' https://dg-docs.ole.dev/'"
+        :icon="'&#x1F3E1;'"
+      >
+      </project-card>
+      <project-card
+        :title="'Talks'"
+        :url="' https://notes.ole.dev/foredrag'"
         :icon="'&#x1F3E1;'"
       >
       </project-card>
