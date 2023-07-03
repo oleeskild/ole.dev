@@ -11,7 +11,7 @@
       <project-card
         :title="'Talks'"
         :url="' https://notes.ole.dev/foredrag'"
-        :icon="'&#x1F3E1;'"
+        :icon="'&#x1F5E3;'"
       >
       </project-card>
     <project-card
