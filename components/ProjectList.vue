@@ -20,6 +20,12 @@
         :icon="'&#x1F331;'"
       >
       </project-card>
+       <project-card
+        :title="'Bergens Røst'"
+        :url="'https://bergensrost.ole.dev'"
+        :icon="'&#x26f0;'"
+      >
+      </project-card>
       <project-card
         :title="'Jam Docs'"
         :url="'https://ole.dev/jam'"
