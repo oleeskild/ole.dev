@@ -19,6 +19,7 @@
         :url="' https://gurl.ole.dev/'"
         :icon="'&#x1F517;'"
       >
+        </project-card>
     <project-card
         :title="'Digital Hage'"
         :url="' https://notes.ole.dev/'"
