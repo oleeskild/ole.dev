@@ -14,6 +14,11 @@
         :icon="'&#x1F5E3;'"
       >
       </project-card>
+      <project-card
+        :title="'gurl'"
+        :url="' https://gurl.ole.dev/'"
+        :icon="'&#x1F517;'"
+      >
     <project-card
         :title="'Digital Hage'"
         :url="' https://notes.ole.dev/'"
